@@ -1,0 +1,25 @@
+{
+  "source": "Original POJ tone-animation project, before-change drawing functions firstCurve / roofPath",
+  "archive": "poj-tone-classroom-renamed-tabs.tar.gz",
+  "grid_source": {
+    "line5": 70,
+    "line1": 334
+  },
+  "grid_target": {
+    "line1": 63,
+    "line2": 54.5,
+    "line3": 37.5,
+    "line4": 20.5,
+    "line5": 12,
+    "svg_height": 73
+  },
+  "tone4": "No mark in the original before-change display",
+  "buttons": "Numeric 1,2,3,4,5,7,8 preserved",
+  "display_overrides": {
+    "tone1": "Blank as requested",
+    "tone5": "Bounding box center aligned with line 3; shape and size unchanged.",
+    "tone8": "Original symbol translated down one source grid interval (136..235); top aligned with line 4. Display y=20.5..46; original 25.5px length preserved."
+  },
+  "horizontal_scale": 0.25757575757575757,
+  "vertical_mapping": "Piecewise linear, preserving the middle intervals (17px) and halving both outer intervals (8.5px)."
+}

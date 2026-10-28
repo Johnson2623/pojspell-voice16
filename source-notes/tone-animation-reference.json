@@ -1,0 +1,23 @@
+{
+  "source_project_id": "appgprj_6ad7168236d08191b4ed5b047f57bdaa",
+  "source_title": "白話字變調教室",
+  "source_commit": "66542a8969ae375d5340639aa4e3e948e862dff2",
+  "source_functions": [
+    "firstCurve",
+    "curve",
+    "rotateLine",
+    "roofPath",
+    "paint"
+  ],
+  "transitions": {
+    "1": 7,
+    "2": 1,
+    "3": 2,
+    "4": 8,
+    "5": 7,
+    "7": 3,
+    "8": 4
+  },
+  "display": "Right-hand SVG in automatic mode only; existing horizontal scale 17/66 and compressed pitch grid; original source motions; existing line-3 centering for tone 5 and one-line downward translation for tone 8 retained. Manual mode displays the corresponding post-sandhi static symbols. Duration follows speed selection; pause cancels the active animation frame.",
+  "manual_display": "Right-hand diagram displays the canonical target-tone symbol using the same scale, stroke width and positioning as the original static glyphs: 1->7, 2->1 (blank), 3->2, 4->8, 5->7, 7->3, 8->4 (blank)."
+}

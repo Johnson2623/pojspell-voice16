@@ -1,0 +1,9 @@
+音檔來源與姓名標示：中華民國教育部。
+1,904 個音檔取自《臺灣台語常用詞辭典》；文字與音檔採 CC 姓名標示－禁止改作 3.0 臺灣授權。
+https://sutian.moe.edu.tw/zh-hant/piantsip/pankhuan-singbing/
+95 個音檔取自教育部臺灣台語羅馬字拼音教學網：
+https://tailo.moe.edu.tw/tone2_1.html
+https://tailo.moe.edu.tw/tone2_2.html
+https://tailo.moe.edu.tw/tone2_3.html
+音檔保留原檔；介面將臺羅轉寫為白話字。文讀、白讀依詞目記載。各例音來源詳見 practice2000.json。
+共有 1,999 個真人錄音例音，包含同音不同字詞目；不同拼音組合共 1701 組。

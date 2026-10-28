@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-26",
+  "source": "https://sutian.moe.edu.tw/zh-hant/siongkuantsuguan/",
+  "counts": {
+    "recorded": 1756,
+    "single": 370,
+    "review": 8466,
+    "attested": 136
+  },
+  "added": [
+    {
+      "key": "choainn|7",
+      "entry": "10060",
+      "han": "跩【替】",
+      "tailo": "tsuāinn",
+      "audioName": "10060(1)",
+      "source": "https://sutian.moe.edu.tw/zh-hant/su/10060/",
+      "zipName": "10/10060(1).mp3",
+      "action": "reuse",
+      "audio": "audio/dict_10060.mp3"
+    },
+    {
+      "key": "hoainn|5",
+      "entry": "11736",
+      "han": "橫",
+      "tailo": "huâinn",
+      "audioName": "11736(1)",
+      "source": "https://sutian.moe.edu.tw/zh-hant/su/11736/",
+      "zipName": "11/11736(1).mp3",
+      "action": "download",
+      "audio": "audio/moe_11736(1).mp3"
+    },
+    {
+      "key": "khoai|3",
+      "entry": "3138",
+      "han": "快",
+      "tailo": "khuài",
+      "audioName": "3138(1)",
+      "source": "https://sutian.moe.edu.tw/zh-hant/su/3138/",
+      "zipName": "3/3138(1).mp3",
+      "action": "reuse",
+      "audio": "audio/dict_3138.mp3"
+    },
+    {
+      "key": "koainn|1",
+      "entry": "3215",
+      "han": "杆",
+      "tailo": "kuainn",
+      "audioName": "3215(1)",
+      "source": "https://sutian.moe.edu.tw/zh-hant/su/3215/",
+      "zipName": "3/3215(1).mp3",
+      "action": "reuse",
+      "audio": "audio/dict_3215.mp3"
+    },
+    {
+      "key": "koainn|2",
+      "entry": "7442",
+      "han": "桿",
+      "tailo": "kuáinn",
+      "audioName": "7442(1)",
+      "source": "https://sutian.moe.edu.tw/zh-hant/su/7442/",
+      "zipName": "7/7442(1).mp3",
+      "action": "reuse",
+      "audio": "audio/dict_7442.mp3"
+    },
+    {
+      "key": "koainn|7",
+      "entry": "3960",
+      "han": "拐【替】",
+      "tailo": "kuāinn",
+      "audioName": "3960(1)",
+      "source": "https://sutian.moe.edu.tw/zh-hant/su/3960/",
+      "zipName": "3/3960(1).mp3",
+      "action": "reuse",
+      "audio": "audio/dict_3960.mp3"
+    },
+    {
+      "key": "koai|1",
+      "entry": "3520",
+      "han": "乖",
+      "tailo": "kuai",
+      "audioName": "3520(1)",
+      "source": "https://sutian.moe.edu.tw/zh-hant/su/3520/",
+      "zipName": "3/3520(1).mp3",
+      "action": "reuse",
+      "audio": "audio/dict_3520.mp3"
+    },
+    {
+      "key": "koai|2",
+      "entry": "3959",
+      "han": "拐",
+      "tailo": "kuái",
+      "audioName": "3959(1)",
+      "source": "https://sutian.moe.edu.tw/zh-hant/su/3959/",
+      "zipName": "3/3959(1).mp3",
+      "action": "reuse",
+      "audio": "audio/dict_3959.mp3"
+    },
+    {
+      "key": "koai|3",
+      "entry": "3884",
+      "han": "怪",
+      "tailo": "kuài",
+      "audioName": "3884(1)",
+      "source": "https://sutian.moe.edu.tw/zh-hant/su/3884/",
+      "zipName": "3/3884(1).mp3",
+      "action": "reuse",
+      "audio": "audio/dict_3884.mp3"
+    },
+    {
+      "key": "moai|5",
+      "entry": "12244",
+      "han": "糜",
+      "tailo": "muâi",
+      "audioName": "12244(1)",
+      "source": "https://sutian.moe.edu.tw/zh-hant/su/12244/",
+      "zipName": "12/12244(1).mp3",
+      "action": "download",
+      "audio": "audio/moe_12244(1).mp3"
+    },
+    {
+      "key": "oainn|2",
+      "entry": "13479",
+      "han": "𨂿",
+      "tailo": "uáinn",
+      "audioName": "13479(1)",
+      "source": "https://sutian.moe.edu.tw/zh-hant/su/13479/",
+      "zipName": "13/13479(1).mp3",
+      "action": "reuse",
+      "audio": "audio/dict_13479.mp3"
+    },
+    {
+      "key": "oai|1",
+      "entry": "5119",
+      "han": "歪",
+      "tailo": "uai",
+      "audioName": "5119(1)",
+      "source": "https://sutian.moe.edu.tw/zh-hant/su/5119/",
+      "zipName": "5/5119(1).mp3",
+      "action": "reuse",
+      "audio": "audio/dict_5119.mp3"
+    },
+    {
+      "key": "soainn|7",
+      "entry": "12188",
+      "han": "檨【替】",
+      "tailo": "suāinn",
+      "audioName": "12188(1)",
+      "source": "https://sutian.moe.edu.tw/zh-hant/su/12188/",
+      "zipName": "12/12188(1).mp3",
+      "action": "reuse",
+      "audio": "audio/dict_12188.mp3"
+    }
+  ],
+  "excludedOldMismatches": [],
+  "notes": [
+    "清單涵蓋目前介面可選的全部組合，不代表全部都是實際台語音節。",
+    "未找到對應不等於音節不成立，也不能直接判定必須另錄。",
+    "僅使用完整單音詞的主音讀錄音；不把複音詞的變調音節剪出當成本調。",
+    "新補音檔來自教育部官方詞條 MP3 壓縮檔，已核對檔名與 CRC，未改作音檔。"
+  ]
+}

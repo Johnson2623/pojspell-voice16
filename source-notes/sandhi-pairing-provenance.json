@@ -1,0 +1,37 @@
+{
+  "totalRows": 1999,
+  "pairedRows": 1279,
+  "unpairedRows": 720,
+  "ruleSource": "https://mhi.moe.edu.tw/faq/index.html?lang=/003/&page=2&reloaded=",
+  "scope": "General citation-tone examples approximating sandhi pitch, not recordings of the original word in context; 5 -> 7; h4 -> 2 and h8 -> 3 with h removed",
+  "byTone": {
+    "1": {
+      "total": 381,
+      "paired": 216
+    },
+    "2": {
+      "total": 318,
+      "paired": 227
+    },
+    "3": {
+      "total": 295,
+      "paired": 203
+    },
+    "4": {
+      "total": 224,
+      "paired": 120
+    },
+    "5": {
+      "total": 305,
+      "paired": 212
+    },
+    "7": {
+      "total": 315,
+      "paired": 200
+    },
+    "8": {
+      "total": 161,
+      "paired": 101
+    }
+  }
+}

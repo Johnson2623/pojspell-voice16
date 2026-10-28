@@ -1,0 +1,7 @@
+{
+  "source": "https://sutian.moe.edu.tw/media/senn/ods/kautian.ods",
+  "sha256": "d58bdd75ec78d34bb07edcc4020401f46e77c8cd62adaab55f04790c7646c58d",
+  "scope": "Single-syllable dictionary headword readings including slash-separated readings; exact normalized POJ and lexical tone. No substring matching or tone-sandhi forms. Labels retain dictionary headwords, with alternate-character markers removed.",
+  "groups": 1871,
+  "headwords": 4389
+}

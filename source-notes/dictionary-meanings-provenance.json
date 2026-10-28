@@ -1,0 +1,8 @@
+{
+  "source": "homophones.json, derived from the Ministry of Education kautian.ods; plus original dictionary rows",
+  "matching": "Exact normalized POJ spelling and lexical tone, never tone sandhi or substrings",
+  "originalRows": 1999,
+  "rowsWithMultipleHeadwords": 1287,
+  "additionalHeadwordDisplays": 3910,
+  "uniqueReadingHeadwordPairs": 4296
+}

@@ -1,0 +1,2443 @@
+{
+  "date": "2026-10-26",
+  "before": 1756,
+  "added": 194,
+  "after": 1950,
+  "sources": {
+    "teaching_site": "https://tailo.moe.edu.tw/",
+    "handbook": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf"
+  },
+  "pages_scanned": 215,
+  "handbook_audio_links_checked": 1385,
+  "counts": {
+    "recorded": 1950,
+    "single": 280,
+    "review": 8384,
+    "attested": 114
+  },
+  "entries": [
+    {
+      "key": "ann|1",
+      "page": 6,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-01-A.mp3",
+      "text": "ann",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-01-A.mp3",
+      "audio": "audio/moe_book_0101-08-01-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=6",
+      "sha256": "d02e07354b070d7f5b706af12725e71a42e240b274746dfaa26ea8a2efac3004",
+      "bytes": 19644,
+      "origin": "handbook"
+    },
+    {
+      "key": "inn|1",
+      "page": 6,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-02-A.mp3",
+      "text": "inn",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-02-A.mp3",
+      "audio": "audio/moe_book_0101-08-02-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=6",
+      "sha256": "0e9f9b03b6988727b983b4c37d16c09ac1a350815d36c07ef973461e49c2e988",
+      "bytes": 21733,
+      "origin": "handbook"
+    },
+    {
+      "key": "enn|1",
+      "page": 6,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-03-A.mp3",
+      "text": "enn",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-03-A.mp3",
+      "audio": "audio/moe_book_0101-08-03-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=6",
+      "sha256": "02ab38d3b67d99b4652fd0a723c0e2669c1d48c6c9734ce78206146b25670828",
+      "bytes": 24659,
+      "origin": "handbook"
+    },
+    {
+      "key": "oa|1",
+      "page": 5,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-07-07-B.mp3",
+      "text": "ua",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-07-07-B.mp3",
+      "audio": "audio/moe_book_0101-07-07-B.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=5",
+      "sha256": "21956fe4ac30a34ee79d97c08fc209b99b23ee4bca5bda1cda93a8d0c231f323",
+      "bytes": 17136,
+      "origin": "handbook"
+    },
+    {
+      "key": "iong|1",
+      "page": 6,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-09-10-A.mp3",
+      "text": "iong",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-09-10-A.mp3",
+      "audio": "audio/moe_book_0101-09-10-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=6",
+      "sha256": "94d3c9950dc922a19c494c62ca364734cd8bee7aa000ee4f4c64abb32b9c8d4b",
+      "bytes": 17972,
+      "origin": "handbook"
+    },
+    {
+      "key": "iann|1",
+      "page": 6,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-06-A.mp3",
+      "text": "iann",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-06-A.mp3",
+      "audio": "audio/moe_book_0101-08-06-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=6",
+      "sha256": "a8fda3b0071804c039c515b75329d02e0913f99a8d13a97985dce6bb5dfa212b",
+      "bytes": 22151,
+      "origin": "handbook"
+    },
+    {
+      "key": "ong|1",
+      "page": 6,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-09-15-A.mp3",
+      "text": "ong",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-09-15-A.mp3",
+      "audio": "audio/moe_book_0101-09-15-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=6",
+      "sha256": "6cdfc80b545607af18e146914c10ec525b5f1fa3de308255062faaf27ace299d",
+      "bytes": 21315,
+      "origin": "handbook"
+    },
+    {
+      "key": "iunn|1",
+      "page": 6,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-07-A.mp3",
+      "text": "iunn",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-07-A.mp3",
+      "audio": "audio/moe_book_0101-08-07-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=6",
+      "sha256": "87c03a321a60fc7b4dcef6ec59caad0bfdbc171e3fdfcab2116fcf9b7d12db5f",
+      "bytes": 21733,
+      "origin": "handbook"
+    },
+    {
+      "key": "ainn|1",
+      "page": 6,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-05-A.mp3",
+      "text": "ainn",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-05-A.mp3",
+      "audio": "audio/moe_book_0101-08-05-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=6",
+      "sha256": "e3ee48129cc280fae08e599343465176996fdad963b1dbb2b489745fa1457730",
+      "bytes": 18808,
+      "origin": "handbook"
+    },
+    {
+      "key": "oainn|1",
+      "page": 6,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-10-A.mp3",
+      "text": "uainn",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-08-10-A.mp3",
+      "audio": "audio/moe_book_0101-08-10-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=6",
+      "sha256": "5a0f8b882bff32a1734fb7795177b36d8b828c858a654cbbe79848bdce1ff69c",
+      "bytes": 24241,
+      "origin": "handbook"
+    },
+    {
+      "key": "iuh|4",
+      "page": 7,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-10-17-A.mp3",
+      "text": " iuh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-10-17-A.mp3",
+      "audio": "audio/moe_book_0101-10-17-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=7",
+      "sha256": "400ac03905a3bc733e14fe3d78c5b54097326e5eb335eec6c9c142c840cf5928",
+      "bytes": 17972,
+      "origin": "handbook"
+    },
+    {
+      "key": "uh|4",
+      "page": 7,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-10-10-A.mp3",
+      "text": " uh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-10-10-A.mp3",
+      "audio": "audio/moe_book_0101-10-10-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=7",
+      "sha256": "09aaa3bdcb39e362172e02667e42fe06fa481ef467dfdce2e9e7f2a17e5df519",
+      "bytes": 20897,
+      "origin": "handbook"
+    },
+    {
+      "key": "ih|4",
+      "page": 7,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-10-08-A.mp3",
+      "text": " ih",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-10-08-A.mp3",
+      "audio": "audio/moe_book_0101-10-08-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=7",
+      "sha256": "ffc5a04a1a7f6918fa8613f34e4919eb71d52701b6e97baa24da56441813a9c3",
+      "bytes": 18808,
+      "origin": "handbook"
+    },
+    {
+      "key": "auh|4",
+      "page": 7,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-10-16-A.mp3",
+      "text": " auh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-10-16-A.mp3",
+      "audio": "audio/moe_book_0101-10-16-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=7",
+      "sha256": "b8f1d33454f79db823e3185551c0a10cba66854b52f935bd2863bbe3b997c07d",
+      "bytes": 24241,
+      "origin": "handbook"
+    },
+    {
+      "key": "oeh|4",
+      "page": 7,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-10-18-A.mp3",
+      "text": "ueh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-10-18-A.mp3",
+      "audio": "audio/moe_book_0101-10-18-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=7",
+      "sha256": "6942c775cbf4df4f238f15fd939a089082e251e076f4f90b9410abfc323a4a75",
+      "bytes": 26331,
+      "origin": "handbook"
+    },
+    {
+      "key": "ooh|4",
+      "page": 7,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-10-14-A.mp3",
+      "text": "ooh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-10-14-A.mp3",
+      "audio": "audio/moe_book_0101-10-14-A.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=7",
+      "sha256": "bf63fbb6eb44c2f70c2cbd98722bc157d32831b1687b02c53a3fcf51bba4e1b5",
+      "bytes": 15046,
+      "origin": "handbook"
+    },
+    {
+      "key": "iauh|4",
+      "page": 7,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-11-07-B.mp3",
+      "text": "iauh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-11-07-B.mp3",
+      "audio": "audio/moe_book_0101-11-07-B.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=7",
+      "sha256": "b3ef415c970e23d11d7a2d28f7e39d62b64c2e273576f46fd7efec322070ad25",
+      "bytes": 19644,
+      "origin": "handbook"
+    },
+    {
+      "key": "iat|4",
+      "page": 7,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-11-02-B.mp3",
+      "text": "iat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-11-02-B.mp3",
+      "audio": "audio/moe_book_0101-11-02-B.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=7",
+      "sha256": "1d7dc6fff77b568d100372ab18d1e3c55a21f9d651508ef38d95b82433472de7",
+      "bytes": 13374,
+      "origin": "handbook"
+    },
+    {
+      "key": "oaih|4",
+      "page": 7,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-11-10-B.mp3",
+      "text": "uaih",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-11-10-B.mp3",
+      "audio": "audio/moe_book_0101-11-10-B.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=7",
+      "sha256": "3c7bd27bbcc05c21e097403867636efd00a1c8e95226c5411d8b31647e4d6ad3",
+      "bytes": 15046,
+      "origin": "handbook"
+    },
+    {
+      "key": "goo|5",
+      "page": 15,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-27-goo.mp3",
+      "text": "gôo",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-27-goo.mp3",
+      "audio": "audio/moe_book_0101-27-goo.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=15",
+      "sha256": "63340c68b9a9d9f8aa5ab8de73020f3e64c0e304645990548e2b1ee92f816184",
+      "bytes": 17554,
+      "origin": "handbook"
+    },
+    {
+      "key": "iak|4",
+      "page": 7,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-11-03-B.mp3",
+      "text": "iak",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-11-03-B.mp3",
+      "audio": "audio/moe_book_0101-11-03-B.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=7",
+      "sha256": "b040e8ae488c937485995ed397a982c2c6f04b8076208f7498722c672b9f9126",
+      "bytes": 20897,
+      "origin": "handbook"
+    },
+    {
+      "key": "nga|2",
+      "page": 15,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-27-nga.mp3",
+      "text": "ngá",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-27-nga.mp3",
+      "audio": "audio/moe_book_0101-27-nga.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=15",
+      "sha256": "acbc63d8878639a9b2fa660cfca923346a09a2dfd67fe24248ca24b99c509170",
+      "bytes": 15882,
+      "origin": "handbook"
+    },
+    {
+      "key": "nge|2",
+      "page": 15,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-27-nge.mp3",
+      "text": "ngé",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-27-nge.mp3",
+      "audio": "audio/moe_book_0101-27-nge.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=15",
+      "sha256": "ee12b7de390496a5d4d6af5b14ca836f99e794e44036d4a5d1b40a41e0e59850",
+      "bytes": 17972,
+      "origin": "handbook"
+    },
+    {
+      "key": "noo|2",
+      "page": 15,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-27-noo.mp3",
+      "text": "nóo",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-27-noo.mp3",
+      "audio": "audio/moe_book_0101-27-noo.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=15",
+      "sha256": "2b9cc8b6cfcd0d9577cb4756e930b62210f8b87d23dc041d0eb86d47571b7b2e",
+      "bytes": 17136,
+      "origin": "handbook"
+    },
+    {
+      "key": "ji|5",
+      "page": 15,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-27-ji.mp3",
+      "text": "jî",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-27-ji.mp3",
+      "audio": "audio/moe_book_0101-27-ji.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=15",
+      "sha256": "c1bcd72b4edfbc4205c03167f8318a583e31d2e91b8a245736dab97adc72c9ed",
+      "bytes": 17136,
+      "origin": "handbook"
+    },
+    {
+      "key": "thu|2",
+      "page": 15,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-27-thu.mp3",
+      "text": "thú",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-27-thu.mp3",
+      "audio": "audio/moe_book_0101-27-thu.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=15",
+      "sha256": "44327f1408c7ee1019d7032b3124b8a52e0f1146c46bc39046216aa565d4870c",
+      "bytes": 15046,
+      "origin": "handbook"
+    },
+    {
+      "key": "bui|1",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-bui.mp3",
+      "text": "bui",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-bui.mp3",
+      "audio": "audio/moe_book_0101-28-bui.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "b0f4d12bbb2c352e610819a72a71558e1bef3e3b72687de53c139f4d8040dcc3",
+      "bytes": 21315,
+      "origin": "handbook"
+    },
+    {
+      "key": "gai|5",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-gai.mp3",
+      "text": "gâi",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-gai.mp3",
+      "audio": "audio/moe_book_0101-28-gai.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "8b7a8193589f0c2cf4ab34fea1f225822822c77d6e7e19d45f1ec62768f2a155",
+      "bytes": 16300,
+      "origin": "handbook"
+    },
+    {
+      "key": "biu|5",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-biu.mp3",
+      "text": "biû",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-biu.mp3",
+      "audio": "audio/moe_book_0101-28-biu.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "c8b2048d9876551bb3bfff8e88f2a49a82dafe26199b42cb3fd7defe1d9ef547",
+      "bytes": 19644,
+      "origin": "handbook"
+    },
+    {
+      "key": "giau|2",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-giau.mp3",
+      "text": "giáu",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-giau.mp3",
+      "audio": "audio/moe_book_0101-28-giau.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "50917f238597018e631c61e72fbaac08cb1cd8a7ec5938300ccb04c9e21432fd",
+      "bytes": 11702,
+      "origin": "handbook"
+    },
+    {
+      "key": "biau|7",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-biau.mp3",
+      "text": "biāu",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-biau.mp3",
+      "audio": "audio/moe_book_0101-28-biau.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "a7bdd4964cea3d304ff3b72f60d3f2aff4c131f485efa5d6bae2d63402690021",
+      "bytes": 23823,
+      "origin": "handbook"
+    },
+    {
+      "key": "gui|5",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-giu.mp3",
+      "text": "guî",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-giu.mp3",
+      "audio": "audio/moe_book_0101-28-giu.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "051df5d4e9f7957da4634f3fbcea826ff3ee87938c7b5c2f5f9431644f8bcc70",
+      "bytes": 12538,
+      "origin": "handbook"
+    },
+    {
+      "key": "goe|7",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-gue.mp3",
+      "text": "guē",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-gue.mp3",
+      "audio": "audio/moe_book_0101-28-gue.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "d2dbe3bca3ff5eaefeb18186062ad933c24f03f28ff10ccf013cb0f7338b2a10",
+      "bytes": 15882,
+      "origin": "handbook"
+    },
+    {
+      "key": "hoai|5",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-huai.mp3",
+      "text": "huâi",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-huai.mp3",
+      "audio": "audio/moe_book_0101-28-huai.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "e41e6cf83e5bc5efd8887a8ef827e8c724f35a465d9f29455b4acedb6067021e",
+      "bytes": 15882,
+      "origin": "handbook"
+    },
+    {
+      "key": "gio|2",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-gio.mp3",
+      "text": "gió",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-gio.mp3",
+      "audio": "audio/moe_book_0101-28-gio.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "34020ad3b420a29d130531f747158d9641e6f06bf78f082202b0e6e1a820ca38",
+      "bytes": 12956,
+      "origin": "handbook"
+    },
+    {
+      "key": "hio|5",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-hio.mp3",
+      "text": "hiô",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-hio.mp3",
+      "audio": "audio/moe_book_0101-28-hio.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "77dc4cb37fcc9de7d717d32132039d9a753d244c09234f91c193c27f86926443",
+      "bytes": 14628,
+      "origin": "handbook"
+    },
+    {
+      "key": "giu|2",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-gui.mp3",
+      "text": "giú",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-gui.mp3",
+      "audio": "audio/moe_book_0101-28-gui.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "be9457bc8918ba062fe8034cf5d3d78178c224d09a336b76908a54d82f614b08",
+      "bytes": 15882,
+      "origin": "handbook"
+    },
+    {
+      "key": "mai|5",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-mai.mp3",
+      "text": "mâi",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-mai.mp3",
+      "audio": "audio/moe_book_0101-28-mai.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "c3028b42476076088bdde61c224a1279bc408fd5fa2b90faddb44d150e772615",
+      "bytes": 18808,
+      "origin": "handbook"
+    },
+    {
+      "key": "hui|7",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-hui.mp3",
+      "text": "huī",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-hui.mp3",
+      "audio": "audio/moe_book_0101-28-hui.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "f610cbf9c6a0d959f0a7d8eccc3ea48f1a4bdb15e5e1ec099bf436d898a71d91",
+      "bytes": 15882,
+      "origin": "handbook"
+    },
+    {
+      "key": "khoa|1",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-khua.mp3",
+      "text": "khua",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-khua.mp3",
+      "audio": "audio/moe_book_0101-28-khua.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "63767e46dc8efd599207e6a92539c97d0dd906ee864e9ce862d280309edb460d",
+      "bytes": 17972,
+      "origin": "handbook"
+    },
+    {
+      "key": "mau|7",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-mau.mp3",
+      "text": "māu",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-mau.mp3",
+      "audio": "audio/moe_book_0101-28-mau.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "a4eba5c5442cc028fecfc10d2e0a29f799c613adf360fb24bae93c6ae65de524",
+      "bytes": 20480,
+      "origin": "handbook"
+    },
+    {
+      "key": "piu|1",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-piu.mp3",
+      "text": "piu",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-piu.mp3",
+      "audio": "audio/moe_book_0101-28-piu.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "80c332f7cbaf280d4d556b29a84467205bd67da9c5f1a713f24554435c237838",
+      "bytes": 17554,
+      "origin": "handbook"
+    },
+    {
+      "key": "ngau|7",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-ngau.mp3",
+      "text": "ngāu",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-28-ngau.mp3",
+      "audio": "audio/moe_book_0101-28-ngau.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "a9e1c563d3eb98e0630bb1126a697936ef830de3103334aa23b7629aeff2b074",
+      "bytes": 17136,
+      "origin": "handbook"
+    },
+    {
+      "key": "pin|1",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-30-pin.mp3",
+      "text": "pin",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-30-pin.mp3",
+      "audio": "audio/moe_book_0101-30-pin.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "a4b06a7efd4f37c1b2f38cd821edd56135708c85f3f175ca94c5d6eeac2033cc",
+      "bytes": 16718,
+      "origin": "handbook"
+    },
+    {
+      "key": "ia|1",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-07-03-B.mp3",
+      "text": "ia",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-07-03-B.mp3",
+      "audio": "audio/moe_book_0101-07-03-B.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "1d4ba0aa7036415ac04ffc54246331c0c53bd295ec32b27d26be2395b50d1d59",
+      "bytes": 18390,
+      "origin": "handbook"
+    },
+    {
+      "key": "khiam|1",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-30-khiam.mp3",
+      "text": "khiam",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-30-khiam.mp3",
+      "audio": "audio/moe_book_0101-30-khiam.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "ea0a10cdd838a1dc1d9e3cbba329298c23914ec22ca66055b5b7500cd167b3ee",
+      "bytes": 16718,
+      "origin": "handbook"
+    },
+    {
+      "key": "thenn|1",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-29-thenn.mp3",
+      "text": "thenn",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-29-thenn.mp3",
+      "audio": "audio/moe_book_0101-29-thenn.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "caf9135f9c03abedc8211e926c85ee831a39eb1542ef0d21c0fca5864f5355ee",
+      "bytes": 14628,
+      "origin": "handbook"
+    },
+    {
+      "key": "phoann|1",
+      "page": 16,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-29-phuann.mp3",
+      "text": "phuann",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-29-phuann.mp3",
+      "audio": "audio/moe_book_0101-29-phuann.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=16",
+      "sha256": "9b968b72291e61275bd4596de61c5c05f40ec2673c0624ad18effe3273692e35",
+      "bytes": 15464,
+      "origin": "handbook"
+    },
+    {
+      "key": "jiong|7",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-jiong.mp3",
+      "text": "jiōng",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-jiong.mp3",
+      "audio": "audio/moe_book_0101-31-jiong.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "073a580e600b194c8ca3ad1bf1800f3a183e0ac723dbf41d69e939979edc71bb",
+      "bytes": 20062,
+      "origin": "handbook"
+    },
+    {
+      "key": "jian|5",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-jian.mp3",
+      "text": "jiân",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-jian.mp3",
+      "audio": "audio/moe_book_0101-31-jian.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "a0178be157e4ec13b3f02ed59a904d8287c2e3783598385efc0636d4070aa0ce",
+      "bytes": 18808,
+      "origin": "handbook"
+    },
+    {
+      "key": "hiang|1",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-hiang.mp3",
+      "text": "hiang",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-hiang.mp3",
+      "audio": "audio/moe_book_0101-31-hiang.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "68c37f89bd8d8f507e3432cf14806a472bc92ab3a1a597e48caf3a1e48dd9ba6",
+      "bytes": 16300,
+      "origin": "handbook"
+    },
+    {
+      "key": "gian|2",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-gian.mp3",
+      "text": "gián",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-gian.mp3",
+      "audio": "audio/moe_book_0101-31-gian.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "afb803da37a892d5781ad5d70b819e703d5740206551fb92e88abce9e1318f54",
+      "bytes": 15046,
+      "origin": "handbook"
+    },
+    {
+      "key": "thim|3",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-30-thim.mp3",
+      "text": "thìm",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-30-thim.mp3",
+      "audio": "audio/moe_book_0101-30-thim.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "0fc28f16c5b5179e43bb15b0630519d9d68caef2f0964a8077f5c05e8b666e6f",
+      "bytes": 19644,
+      "origin": "handbook"
+    },
+    {
+      "key": "giong|2",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-giong.mp3",
+      "text": "gióng",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-giong.mp3",
+      "audio": "audio/moe_book_0101-31-giong.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "c2892db00170e81ece6e941e12f59e70d218875aa842073a3f71d7eab1f55405",
+      "bytes": 17972,
+      "origin": "handbook"
+    },
+    {
+      "key": "khiong|1",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-khiong.mp3",
+      "text": "khiong",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-khiong.mp3",
+      "audio": "audio/moe_book_0101-31-khiong.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "f64f5fdb2af81047a355ba28b15fcd193d28bbf02dc93d31882fc4ff84318e48",
+      "bytes": 18808,
+      "origin": "handbook"
+    },
+    {
+      "key": "phoan|3",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-phuan.mp3",
+      "text": "phuàn",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-phuan.mp3",
+      "audio": "audio/moe_book_0101-31-phuan.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "27e6f6f64e22f6326cf538601a492d434438102a15bccfcc9020608a5dc013eb",
+      "bytes": 15464,
+      "origin": "handbook"
+    },
+    {
+      "key": "loan|5",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-luan.mp3",
+      "text": "luân",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-luan.mp3",
+      "audio": "audio/moe_book_0101-31-luan.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "cc552618a8440060750764278a507ac55c3c837e813447b194988ed63a6e9c7f",
+      "bytes": 19644,
+      "origin": "handbook"
+    },
+    {
+      "key": "siong|5",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-siong.mp3",
+      "text": "siông",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-siong.mp3",
+      "audio": "audio/moe_book_0101-31-siong.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "7c2a96a320f4f230e7ee592e9322eaac4cdd83d2512fb750aaecd2a93b5e26ce",
+      "bytes": 20480,
+      "origin": "handbook"
+    },
+    {
+      "key": "som|1",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-som.mp3",
+      "text": "som",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-som.mp3",
+      "audio": "audio/moe_book_0101-31-som.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "92670ad9ed6a78f8e40ff379e8744a65d71b8e9740d836fc4a914eed944aefbf",
+      "bytes": 20480,
+      "origin": "handbook"
+    },
+    {
+      "key": "piang|1",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-piang.mp3",
+      "text": "piang",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-piang.mp3",
+      "audio": "audio/moe_book_0101-31-piang.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "d3f7d29ff12d584d3853096e9f88fc318618bf87e47d70196437f5d2977fbc21",
+      "bytes": 19644,
+      "origin": "handbook"
+    },
+    {
+      "key": "bek|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-bik.mp3",
+      "text": "bik",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-bik.mp3",
+      "audio": "audio/moe_book_0101-32-bik.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "61f65eb9d50de62eee93ff265e35db1aa7adcb96c2aaa8e18a3e266bea7c7c51",
+      "bytes": 11284,
+      "origin": "handbook"
+    },
+    {
+      "key": "ap|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-ap.mp3",
+      "text": "ap",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-ap.mp3",
+      "audio": "audio/moe_book_0101-32-ap.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "d449d2410de91b4e092ba0b49279409835e83df7b4851b65d690d12471f3454a",
+      "bytes": 7523,
+      "origin": "handbook"
+    },
+    {
+      "key": "thoan|1",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-thuan.mp3",
+      "text": "thuan",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-thuan.mp3",
+      "audio": "audio/moe_book_0101-31-thuan.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "bb755b84157a5f07946cd2529d4a423d447c4bb5020e03ddbdc5acf9ed3a7c11",
+      "bytes": 19226,
+      "origin": "handbook"
+    },
+    {
+      "key": "bit|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-bit.mp3",
+      "text": "bit",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-bit.mp3",
+      "audio": "audio/moe_book_0101-32-bit.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "3306f7d7e302d3037f70c958d44bf1546ec6d7bbf027c468ae4702800e552ade",
+      "bytes": 15046,
+      "origin": "handbook"
+    },
+    {
+      "key": "chiang|1",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-tsiang.mp3",
+      "text": "tsiang",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-tsiang.mp3",
+      "audio": "audio/moe_book_0101-31-tsiang.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "b8055769b262cd4ed453fd2e6f807fd820df8d3e3702a8cbab686d924a295d55",
+      "bytes": 18808,
+      "origin": "handbook"
+    },
+    {
+      "key": "toan|1",
+      "page": 17,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-tuan.mp3",
+      "text": "tuan",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-31-tuan.mp3",
+      "audio": "audio/moe_book_0101-31-tuan.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=17",
+      "sha256": "9eef758d3d39b3ddd8afeb6ebc6ef721f641093cae0c3a92881d461bc801d9ac",
+      "bytes": 15882,
+      "origin": "handbook"
+    },
+    {
+      "key": "gak|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-gak.mp3",
+      "text": "gak",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-gak.mp3",
+      "audio": "audio/moe_book_0101-32-gak.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "550dcf3c006fdc5d73bcf40c0024c306b48befc85fc264b3846f4662808c3238",
+      "bytes": 8777,
+      "origin": "handbook"
+    },
+    {
+      "key": "ip|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-ip.mp3",
+      "text": "ip",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-ip.mp3",
+      "audio": "audio/moe_book_0101-32-ip.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "d931f996a87df3ef85ef3b8eab7aec65d41d26d194373e0379c9520bb76f3f08",
+      "bytes": 7523,
+      "origin": "handbook"
+    },
+    {
+      "key": "hat|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-hat.mp3",
+      "text": "hat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-hat.mp3",
+      "audio": "audio/moe_book_0101-32-hat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "0c16ee2c0a6313d54cab60c15879a5cabea1d0c4c4234c92c4af42a6beb77926",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "gek|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-gik.mp3",
+      "text": "gik",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-gik.mp3",
+      "audio": "audio/moe_book_0101-32-gik.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "30d06ef8f7cf0664615038b1bba0befe4d17f19212adbe72d187d955c36abd11",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "hah|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-hah.mp3",
+      "text": "hah",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-hah.mp3",
+      "audio": "audio/moe_book_0101-32-hah.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "4f0e25fb011ec73343e74d438baa529bb25bd8eadcabd6a5de003d3d68716284",
+      "bytes": 9195,
+      "origin": "handbook"
+    },
+    {
+      "key": "hek|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-hik.mp3",
+      "text": "hik",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-hik.mp3",
+      "audio": "audio/moe_book_0101-32-hik.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "88fef6338b1d01afc48e05d50f886783a8c6638f14870391b1f616ee2f43777c",
+      "bytes": 9195,
+      "origin": "handbook"
+    },
+    {
+      "key": "jit|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-jit.mp3",
+      "text": "jit",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-jit.mp3",
+      "audio": "audio/moe_book_0101-32-jit.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "e133dd8571e67f81463ad7edf3ed1eead57af855a71962a2e613076d1823d77b",
+      "bytes": 7941,
+      "origin": "handbook"
+    },
+    {
+      "key": "lek|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-lik.mp3",
+      "text": "lik",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-lik.mp3",
+      "audio": "audio/moe_book_0101-32-lik.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "a5356483230dfbc45806ae769c1d94b53c84b06dcc08987a5ab5d5cd570a1134",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "lat|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-lat.mp3",
+      "text": "lat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-lat.mp3",
+      "audio": "audio/moe_book_0101-32-lat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "d6863df050eb225cd01131c726af9f615de9abc13b50bacb744e8b815f580606",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "lah|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-lah.mp3",
+      "text": "lah",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-lah.mp3",
+      "audio": "audio/moe_book_0101-32-lah.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "16de1dc18d913d5a2faf65918a4608d4a8af4f24565a121afc328113b417653b",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "lip|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-lip.mp3",
+      "text": "lip",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-lip.mp3",
+      "audio": "audio/moe_book_0101-32-lip.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "07f23fe91400b7358684ca1ea3dfbbfe8648d4e9c1c002b0252f9e0b7d99ed87",
+      "bytes": 9195,
+      "origin": "handbook"
+    },
+    {
+      "key": "jip|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-jip.mp3",
+      "text": "jip",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-jip.mp3",
+      "audio": "audio/moe_book_0101-32-jip.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "694359eb204715ade89b5454685e36f932da1efab4ce35b4a3ee2584dfcff457",
+      "bytes": 10449,
+      "origin": "handbook"
+    },
+    {
+      "key": "mah|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-mah.mp3",
+      "text": "mah",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-mah.mp3",
+      "audio": "audio/moe_book_0101-32-mah.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "265eca4038bee7083f1a2fb99c56b2aa1ea04b041466bda7b4466221eea99bf9",
+      "bytes": 15882,
+      "origin": "handbook"
+    },
+    {
+      "key": "tat|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-tat.mp3",
+      "text": "tat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-tat.mp3",
+      "audio": "audio/moe_book_0101-32-tat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "55bf2f578c9240f45cc63e7c68f3f4bd97a797d34d6fd0c3efe88bb119d32f7a",
+      "bytes": 12956,
+      "origin": "handbook"
+    },
+    {
+      "key": "sap|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-sap.mp3",
+      "text": "sap",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-sap.mp3",
+      "audio": "audio/moe_book_0101-32-sap.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "eac7bd3fcb48ff62bf5f3a27df5bd105ea4366c60f87c6f4b031a24926aa78ed",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "sah|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-sah.mp3",
+      "text": "sah",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-sah.mp3",
+      "audio": "audio/moe_book_0101-32-sah.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "7ffc537b37eca4e181bbc88ee9f08db911601fecb220a0c200936fe2fa1f69fa",
+      "bytes": 10866,
+      "origin": "handbook"
+    },
+    {
+      "key": "lit|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-lit.mp3",
+      "text": "lit",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-lit.mp3",
+      "audio": "audio/moe_book_0101-32-lit.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "ec2093f970cdc74b38d2a249276acc813990bacfbb4fa9459cf43c31d159b5d9",
+      "bytes": 10866,
+      "origin": "handbook"
+    },
+    {
+      "key": "gok|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-gok.mp3",
+      "text": "gok",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-gok.mp3",
+      "audio": "audio/moe_book_0101-33-gok.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "744b4c162995cee3d3d416b2a5b93eec061dfc4ebd31b5fb1137d4bb474269f2",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "chhip|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-tship.mp3",
+      "text": "tship",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-tship.mp3",
+      "audio": "audio/moe_book_0101-32-tship.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "d3b60d06a6b878c138ce4f209eae8dc812400a47d0dd728344d2dc8fb1b567a4",
+      "bytes": 7941,
+      "origin": "handbook"
+    },
+    {
+      "key": "boh|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-boh.mp3",
+      "text": "boh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-boh.mp3",
+      "audio": "audio/moe_book_0101-33-boh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "6f485dff679183e52479977b16237e6ad81abdb0a8b7b564764e03a39e3a878f",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "but|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-but.mp3",
+      "text": "but",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-but.mp3",
+      "audio": "audio/moe_book_0101-33-but.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "751027f1174692108d42b9a0af5d1fa2dc56acbc7a04966949fa16792e042ad9",
+      "bytes": 8359,
+      "origin": "handbook"
+    },
+    {
+      "key": "chhak|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-tshak.mp3",
+      "text": "tshak",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-tshak.mp3",
+      "audio": "audio/moe_book_0101-32-tshak.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "415ab9c2b6c4a5aab9f56cecc5eba38be9da1b40109104747e5713c77407da5d",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "chap|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-tsap.mp3",
+      "text": "tsap",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-32-tsap.mp3",
+      "audio": "audio/moe_book_0101-32-tsap.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "b33c269675675201358966e5b1e2e3780b2d4e2057d6be591f3e102d6adf5bca",
+      "bytes": 10449,
+      "origin": "handbook"
+    },
+    {
+      "key": "kih|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-kih.mp3",
+      "text": "kih",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-kih.mp3",
+      "audio": "audio/moe_book_0101-33-kih.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "42f98af765ec9ace25e1c11ac9377022f0b34639484ee6051562df7dd19ab1de",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "hoh|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-hoh.mp3",
+      "text": "hoh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-hoh.mp3",
+      "audio": "audio/moe_book_0101-33-hoh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "cabf7b0ff1b719f9517f56b3d0cd569ad968a76779b98aedd477141f13cfeef1",
+      "bytes": 9195,
+      "origin": "handbook"
+    },
+    {
+      "key": "khuh|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-khuh.mp3",
+      "text": "khuh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-khuh.mp3",
+      "audio": "audio/moe_book_0101-33-khuh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "842846b32eefdc28e343a7a71a02983d54c51f2e16b0c786c179d362ee6917f4",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "jih|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-jih.mp3",
+      "text": "jih",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-jih.mp3",
+      "audio": "audio/moe_book_0101-33-jih.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "d5e4d1d661442089de4c82ab85248dc955195479544ad912b6138ec3ab353534",
+      "bytes": 9195,
+      "origin": "handbook"
+    },
+    {
+      "key": "leh|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-leh.mp3",
+      "text": "leh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-leh.mp3",
+      "audio": "audio/moe_book_0101-33-leh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "e933416c9e6ee0643269de30f447473318a33ef00c902e649f0966c6b2d7ed47",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "lih|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-lih.mp3",
+      "text": "lih",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-lih.mp3",
+      "audio": "audio/moe_book_0101-33-lih.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "2dafc8a6e78263de219529dd48b68fc5a86f78146aa12ba5a834ef5881ea8f18",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "tut|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-tut.mp3",
+      "text": "tut",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-tut.mp3",
+      "audio": "audio/moe_book_0101-33-tut.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "d16607ea20c9983466df2cfa105213f6c611294227a9980b57d7278cadfb19a8",
+      "bytes": 7523,
+      "origin": "handbook"
+    },
+    {
+      "key": "mih|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-mih.mp3",
+      "text": "mih",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-mih.mp3",
+      "audio": "audio/moe_book_0101-33-mih.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "7fec84131e3758e0487367313690568e43a358f5aec1d726f26a915abbab4713",
+      "bytes": 9195,
+      "origin": "handbook"
+    },
+    {
+      "key": "phuh|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-phuh.mp3",
+      "text": "phuh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-phuh.mp3",
+      "audio": "audio/moe_book_0101-33-phuh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "6f017b030a661582d6ae69dc7780491e1db67a3a41cc5022f6e61b082e028b86",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "theh|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-theh.mp3",
+      "text": "theh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-theh.mp3",
+      "audio": "audio/moe_book_0101-33-theh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "b6de857d7e7c6fa7b24ea0bfc2f5be50b749d9584c6c32de2e1c184a9fdbfdaa",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "luh|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-luh.mp3",
+      "text": "luh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-luh.mp3",
+      "audio": "audio/moe_book_0101-33-luh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "b1561302544ac7530ee9bda614c26b5a7c57cad82a425603b2926f73e02b371a",
+      "bytes": 11702,
+      "origin": "handbook"
+    },
+    {
+      "key": "thoh|4",
+      "page": 18,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-thoh.mp3",
+      "text": "thoh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-33-thoh.mp3",
+      "audio": "audio/moe_book_0101-33-thoh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=18",
+      "sha256": "24a0fbce5db8bf6ce366a9120353a57ec34f61a0c65407f2ca506d028bf96c0d",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "hiap|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-hiap.mp3",
+      "text": "hiap",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-hiap.mp3",
+      "audio": "audio/moe_book_0101-34-hiap.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "609cfbb43ba14deb1d00c9dc8c680626e3cbfc289ee4fa4c82f13d22e6ccda26",
+      "bytes": 9195,
+      "origin": "handbook"
+    },
+    {
+      "key": "giat|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-giat.mp3",
+      "text": "giat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-giat.mp3",
+      "audio": "audio/moe_book_0101-34-giat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "2549d310b1ad02839870315af4a03918511a5cac5d6b13137b1b8c193aa9a2c3",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "boeh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-bueh.mp3",
+      "text": "bueh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-bueh.mp3",
+      "audio": "audio/moe_book_0101-34-bueh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "2bfe4449628c5a0dead06c9932eed59b90a18177a1afdd82626a1f353901b26e",
+      "bytes": 11284,
+      "origin": "handbook"
+    },
+    {
+      "key": "jiap|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-jiap.mp3",
+      "text": "jiap",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-jiap.mp3",
+      "audio": "audio/moe_book_0101-34-jiap.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "abb785585b0f063f498bc993aace9bf97bea90075f293566f1310c34ce2e6033",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "biat|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-biat.mp3",
+      "text": "biat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-biat.mp3",
+      "audio": "audio/moe_book_0101-34-biat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "6e3648f8202263536946bf0c843d79bb994a02e8a991b5cc8fd53ced4d9634eb",
+      "bytes": 10866,
+      "origin": "handbook"
+    },
+    {
+      "key": "goeh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-gueh.mp3",
+      "text": "gueh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-gueh.mp3",
+      "audio": "audio/moe_book_0101-34-gueh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "62faa1f3c72be9a8523a72a778a54beafa5801d88cacdca8803fc0b60052449c",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "phoeh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-phueh.mp3",
+      "text": "phueh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-phueh.mp3",
+      "audio": "audio/moe_book_0101-34-phueh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "52674c587739eaf4b64eddb147a3b61b64fd9d74f0a15cc1657941431895e661",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "liat|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-liat.mp3",
+      "text": "liat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-liat.mp3",
+      "audio": "audio/moe_book_0101-34-liat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "1a4687aff9e01de112de47a1c52a2091ceb476a5469ce481f8a5903338affbd8",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "jiat|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-jiat.mp3",
+      "text": "jiat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-jiat.mp3",
+      "audio": "audio/moe_book_0101-34-jiat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "496c6f5aa0f976c76fccdeb0a543816b5fdcb1e9ecaf16fbb014a8796c29d1c5",
+      "bytes": 10449,
+      "origin": "handbook"
+    },
+    {
+      "key": "loeh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-lueh.mp3",
+      "text": "lueh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-lueh.mp3",
+      "audio": "audio/moe_book_0101-34-lueh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "4182a98f9fabf6581de120312cf0cc97ee52a116cc4bfbabe8e2c8c175f985e4",
+      "bytes": 11702,
+      "origin": "handbook"
+    },
+    {
+      "key": "phauh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-phauh.mp3",
+      "text": "phauh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-phauh.mp3",
+      "audio": "audio/moe_book_0101-34-phauh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "c7e241747a43dd03caa8c9bf31ced33d8fc3f8d87b9788e4e270a2a7721289ed",
+      "bytes": 12120,
+      "origin": "handbook"
+    },
+    {
+      "key": "lauh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-lauh.mp3",
+      "text": "lauh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-lauh.mp3",
+      "audio": "audio/moe_book_0101-34-lauh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "6d7a4558e3f3e445ff1bf4a1f3bbe5a8e2fd6d0aa35ff42217f6e11f036050e2",
+      "bytes": 9195,
+      "origin": "handbook"
+    },
+    {
+      "key": "tiap|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tiap.mp3",
+      "text": "tiap",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tiap.mp3",
+      "audio": "audio/moe_book_0101-34-tiap.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "8384a865d746b2cfe90d9a48bd7fd93304b2ee311283adb3df9e75745cc8d4c8",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "thiat|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-thiat.mp3",
+      "text": "thiat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-thiat.mp3",
+      "audio": "audio/moe_book_0101-34-thiat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "957a10a7c00580c0e2ea2a2adf930d209a543bccac65ca7be035856ef0f4ff20",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "poeh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-pueh.mp3",
+      "text": "pueh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-pueh.mp3",
+      "audio": "audio/moe_book_0101-34-pueh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "869bad940c19d7aa2a419bdf29711b2dbb151efbd2ddbb0fed0cdefea5a54540",
+      "bytes": 12956,
+      "origin": "handbook"
+    },
+    {
+      "key": "tiat|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tiat.mp3",
+      "text": "tiat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tiat.mp3",
+      "audio": "audio/moe_book_0101-34-tiat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "f279ac0e15353ce15a08353666e6338b272e99246a252192943a4e56d12c044e",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "tauh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tauh.mp3",
+      "text": "tauh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tauh.mp3",
+      "audio": "audio/moe_book_0101-34-tauh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "f1d8f85719fc848d41671e4a056df72a9c84031371a3ee4345d2c1a0e230a399",
+      "bytes": 12538,
+      "origin": "handbook"
+    },
+    {
+      "key": "piat|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-piat.mp3",
+      "text": "piat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-piat.mp3",
+      "audio": "audio/moe_book_0101-34-piat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "0ad01ade56a3435dbfff6982175bd491be3892ebdbd8112c71400f3eff05593d",
+      "bytes": 11284,
+      "origin": "handbook"
+    },
+    {
+      "key": "chhauh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tshauh.mp3",
+      "text": "tshauh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tshauh.mp3",
+      "audio": "audio/moe_book_0101-34-tshauh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "7f39362245a442867b6fdbc34b6c339c0718b9eb72a016f0d60e3f80dbed3797",
+      "bytes": 11702,
+      "origin": "handbook"
+    },
+    {
+      "key": "chhoeh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tshueh.mp3",
+      "text": "tshueh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tshueh.mp3",
+      "audio": "audio/moe_book_0101-34-tshueh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "52ba7e2db96d052977364d4a39c10f40c95ff8036e838ea8e251e3d584fa3f2c",
+      "bytes": 11284,
+      "origin": "handbook"
+    },
+    {
+      "key": "choeh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tsueh.mp3",
+      "text": "tsueh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tsueh.mp3",
+      "audio": "audio/moe_book_0101-34-tsueh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "fe5a6060330216ab445891fc70a63ba3671349d2b07f407fa98d8fa44f63cb21",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "gioh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-gioh.mp3",
+      "text": "gioh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-gioh.mp3",
+      "audio": "audio/moe_book_0101-35-gioh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "1451a6aba9d2d88b385207c00259787727495b9d1eceb5355605e261c691f330",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "boat|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-buat.mp3",
+      "text": "buat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-buat.mp3",
+      "audio": "audio/moe_book_0101-35-buat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "a9d029bba833c845b14505dc5176d1b0927e70ddb01a755d044337fc24ab6c0a",
+      "bytes": 10866,
+      "origin": "handbook"
+    },
+    {
+      "key": "chiuh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tsiuh.mp3",
+      "text": "tsiuh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-34-tsiuh.mp3",
+      "audio": "audio/moe_book_0101-34-tsiuh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "4af53f3234cb85688d948d6f122df82b427fe39c23fdd34e8099e2561224f325",
+      "bytes": 11284,
+      "origin": "handbook"
+    },
+    {
+      "key": "giok|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-giok.mp3",
+      "text": "giok",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-giok.mp3",
+      "audio": "audio/moe_book_0101-35-giok.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "9964e34e6776d2d498656d1b2cae1119f961484c3398b555c0cceae6814f5410",
+      "bytes": 8777,
+      "origin": "handbook"
+    },
+    {
+      "key": "joah|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-juah.mp3",
+      "text": "juah",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-juah.mp3",
+      "audio": "audio/moe_book_0101-35-juah.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "e85380e117d071cf1a07be42e35e6b040b1baf9c2e498ac905754a1d71560c4c",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "kiah|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-kiah.mp3",
+      "text": "kiah",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-kiah.mp3",
+      "audio": "audio/moe_book_0101-35-kiah.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "c3dcfe7db28293a58aa449338ea3c1edabe784f654c20365e8d096acb01a7d6a",
+      "bytes": 11284,
+      "origin": "handbook"
+    },
+    {
+      "key": "khiak|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-khiak.mp3",
+      "text": "khiak",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-khiak.mp3",
+      "audio": "audio/moe_book_0101-35-khiak.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "4991b551af720c82cbf9bd8d7aa8583662455600ab46a7d321f1403778a0e644",
+      "bytes": 8359,
+      "origin": "handbook"
+    },
+    {
+      "key": "goat|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-guat.mp3",
+      "text": "guat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-guat.mp3",
+      "audio": "audio/moe_book_0101-35-guat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "900eec5a42b82a5c5c22e321be5838c7818e6cc718d92b2bf374f69d7c345c34",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "hiok|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-hiok.mp3",
+      "text": "hiok",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-hiok.mp3",
+      "audio": "audio/moe_book_0101-35-hiok.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "f38115d1fc6a5b86f8b31c4f69565ee6f80b0b4bd8a8a2429379d9ee66340298",
+      "bytes": 7523,
+      "origin": "handbook"
+    },
+    {
+      "key": "kioh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-kioh.mp3",
+      "text": "kioh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-kioh.mp3",
+      "audio": "audio/moe_book_0101-35-kioh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "faca716a8b6b752320be6035543f87765341bfab57e9f6b291e66828018a841d",
+      "bytes": 9195,
+      "origin": "handbook"
+    },
+    {
+      "key": "ngiauh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-ngiauh.mp3",
+      "text": "ngiauh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-ngiauh.mp3",
+      "audio": "audio/moe_book_0101-35-ngiauh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "2ac50567e75443a184d79c78e9eb34fb2936dde9bccdeb0444db3218dc428dc8",
+      "bytes": 10866,
+      "origin": "handbook"
+    },
+    {
+      "key": "loaih|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-luaih.mp3",
+      "text": "luaih",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-luaih.mp3",
+      "audio": "audio/moe_book_0101-35-luaih.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "95257df14267505fd49c8196a72624558c5ff6c92be0ff5eb21eb41d16b6ae19",
+      "bytes": 8777,
+      "origin": "handbook"
+    },
+    {
+      "key": "liok|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-liok.mp3",
+      "text": "liok",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-liok.mp3",
+      "audio": "audio/moe_book_0101-35-liok.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "ef5cb9f79c17f999774dd118b2b165832c42703c688873727cafd1323a66087c",
+      "bytes": 8777,
+      "origin": "handbook"
+    },
+    {
+      "key": "lioh|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-lioh.mp3",
+      "text": "lioh",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-lioh.mp3",
+      "audio": "audio/moe_book_0101-35-lioh.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "6249da7f1260774936e1b63ecbec6d02d3c10de4fbb4e49841e2381aa7595137",
+      "bytes": 10449,
+      "origin": "handbook"
+    },
+    {
+      "key": "loat|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-luat.mp3",
+      "text": "luat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-luat.mp3",
+      "audio": "audio/moe_book_0101-35-luat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "a99b936edd639f467c8ab2edd32b566b267dcdfffe335471695e931ba0bd9718",
+      "bytes": 9195,
+      "origin": "handbook"
+    },
+    {
+      "key": "phoat|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-phuat.mp3",
+      "text": "phuat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-phuat.mp3",
+      "audio": "audio/moe_book_0101-35-phuat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "3acf1cddd419da0dd3f583a7fbf35b8d98b2d1df19dfa325618101588bd247b0",
+      "bytes": 8777,
+      "origin": "handbook"
+    },
+    {
+      "key": "thiok|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-thiok.mp3",
+      "text": "thiok",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-thiok.mp3",
+      "audio": "audio/moe_book_0101-35-thiok.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "1983915166fade20cf25208a0b93f12d94f0c906c698eb3eff17b6b65d9cf984",
+      "bytes": 9195,
+      "origin": "handbook"
+    },
+    {
+      "key": "poat|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-puat.mp3",
+      "text": "puat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-puat.mp3",
+      "audio": "audio/moe_book_0101-35-puat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "c862687c455cdd2f120ae08c36e60459c2ba6d6c49cdd53acb109b09b6b6eedc",
+      "bytes": 8777,
+      "origin": "handbook"
+    },
+    {
+      "key": "phiak|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-phiak.mp3",
+      "text": "phiak",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-phiak.mp3",
+      "audio": "audio/moe_book_0101-35-phiak.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "99ff0a288f53bee608b2f91c2408c5a5175f47ed65c10c404cf91654a58150bd",
+      "bytes": 10031,
+      "origin": "handbook"
+    },
+    {
+      "key": "tiak|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-tiak.mp3",
+      "text": "tiak",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-tiak.mp3",
+      "audio": "audio/moe_book_0101-35-tiak.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "d30aa3a54d02f090869d8fa8d656dbb00c3f87bd6765b695d7bd65c4659e1e19",
+      "bytes": 9195,
+      "origin": "handbook"
+    },
+    {
+      "key": "chhiok|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-tshiok.mp3",
+      "text": "tshiok",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-tshiok.mp3",
+      "audio": "audio/moe_book_0101-35-tshiok.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "f4bae7c14c1862c2f2aeca54a2d52f151a942526fe6824f3f65bf43f79aae4d7",
+      "bytes": 10866,
+      "origin": "handbook"
+    },
+    {
+      "key": "toat|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-tuat.mp3",
+      "text": "tuat",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-tuat.mp3",
+      "audio": "audio/moe_book_0101-35-tuat.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "7fc3c751e2bb975fc314d56b32cc2c194aa214bcae235b990babe43245827508",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "tiok|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-tiok.mp3",
+      "text": "tiok",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-tiok.mp3",
+      "audio": "audio/moe_book_0101-35-tiok.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "cbff8dbb990da04302fd6d7184f686ef31b225e7b14dc937ca763a316b63abad",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "toah|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-tuah.mp3",
+      "text": "tuah",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-tuah.mp3",
+      "audio": "audio/moe_book_0101-35-tuah.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "6fcb3e10ced5a97a5f0c8b3e234eb57833449f6617856d50928b1ba5409fb228",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "chhiak|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-tshiak.mp3",
+      "text": "tshiak",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-tshiak.mp3",
+      "audio": "audio/moe_book_0101-35-tshiak.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "109578cf103a82e8e1481c9dfb276bf861d93661f3823d9c4b85ee832434a38b",
+      "bytes": 9613,
+      "origin": "handbook"
+    },
+    {
+      "key": "siok|4",
+      "page": 19,
+      "uri": "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-siok.mp3",
+      "text": "siok",
+      "source": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-35-siok.mp3",
+      "audio": "audio/moe_book_0101-35-siok.mp3",
+      "sourcePage": "https://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3.pdf#page=19",
+      "sha256": "9ae0abb422462a039adf5cdc50765a2d5140e3e41a2b0311d6bacb7fe25c7296",
+      "bytes": 8359,
+      "origin": "handbook"
+    },
+    {
+      "key": "tap|4",
+      "source": "https://tailo.moe.edu.tw/tone/tone1/mp3/23_tap.mp3",
+      "page": "https://tailo.moe.edu.tw/tone1.html",
+      "texts": [
+        "tap",
+        "答"
+      ],
+      "tailo": "tap",
+      "han": "答",
+      "audio": "audio/moe_teaching_ec1a38b4c56a67.mp3",
+      "sha256": "99a285a78fb43cb287894e6e2a245b2df92ddbc8b3fe91800901258c5cb4a2be",
+      "bytes": 12019,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "ba|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac1/4-1_mp3/b1.mp3",
+      "page": "https://tailo.moe.edu.tw/prac1.html",
+      "texts": [
+        "ba"
+      ],
+      "tailo": "ba",
+      "han": "拼音 ba",
+      "audio": "audio/moe_teaching_f200d154c618a2.mp3",
+      "sha256": "d02a6450bdc0e27d8f1e0c6f65e480bf49178ae16719554e32981be6efd6e8fc",
+      "bytes": 46303,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "phe|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac1/4-1_mp3/ph4.mp3",
+      "page": "https://tailo.moe.edu.tw/prac1.html",
+      "texts": [
+        "phe"
+      ],
+      "tailo": "phe",
+      "han": "拼音 phe",
+      "audio": "audio/moe_teaching_a5e44dac504cc8.mp3",
+      "sha256": "8813dd39d4edb12b7a4442001c9c96881b1b066bfa3cbec92fc0fbd30cda3590",
+      "bytes": 44201,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "chiat|8",
+      "source": "https://tailo.moe.edu.tw/tone/tone1/mp3/39_tsiat_8.mp3",
+      "page": "https://tailo.moe.edu.tw/tone1.html",
+      "texts": [
+        "tsia̍t",
+        "捷"
+      ],
+      "tailo": "tsia̍t",
+      "han": "捷",
+      "audio": "audio/moe_teaching_9a7c95617f4a72.mp3",
+      "sha256": "bd974cd0beadd74bea62b896a1d35baeacf84e98b45633ecb9470b644bd3ce59",
+      "bytes": 40440,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "bi|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac1/4-1_mp3/b2.mp3",
+      "page": "https://tailo.moe.edu.tw/prac1.html",
+      "texts": [
+        "bi"
+      ],
+      "tailo": "bi",
+      "han": "拼音 bi",
+      "audio": "audio/moe_teaching_63cf509953f6b3.mp3",
+      "sha256": "5eb5fb9eae539e1e86e16a0ca9a9d9a5491bad4b75067397b9f9a6af00cd8768",
+      "bytes": 45467,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "phu|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac1/4-1_mp3/ph3.mp3",
+      "page": "https://tailo.moe.edu.tw/prac1.html",
+      "texts": [
+        "phu"
+      ],
+      "tailo": "phu",
+      "han": "拼音 phu",
+      "audio": "audio/moe_teaching_e1eb2c26d25984.mp3",
+      "sha256": "aeae2b0b4b7c0ef880c13f6fe6b9d2c95f3761392c81bb1e4d55ff784d7cbb27",
+      "bytes": 45037,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "mi|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac1/4-1_mp3/m2.mp3",
+      "page": "https://tailo.moe.edu.tw/prac1.html",
+      "texts": [
+        "mi"
+      ],
+      "tailo": "mi",
+      "han": "拼音 mi",
+      "audio": "audio/moe_teaching_83f5dfe818f103.mp3",
+      "sha256": "a625920c7ee2d768332f924154aa9228dce5e0d192cee536818de035c8dc3640",
+      "bytes": 49217,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "bu|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac1/4-1_mp3/b3.mp3",
+      "page": "https://tailo.moe.edu.tw/prac1.html",
+      "texts": [
+        "bu"
+      ],
+      "tailo": "bu",
+      "han": "拼音 bu",
+      "audio": "audio/moe_teaching_ebeca1245d0707.mp3",
+      "sha256": "3e1756f33ab467313367adf653457dc8960de36a0ccd137f2709e103f0997faa",
+      "bytes": 47556,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "bo|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac1/4-1_mp3/b5.mp3",
+      "page": "https://tailo.moe.edu.tw/prac1.html",
+      "texts": [
+        "bo"
+      ],
+      "tailo": "bo",
+      "han": "拼音 bo",
+      "audio": "audio/moe_teaching_37a538caddeba0.mp3",
+      "sha256": "91b709643a9d1227b3f0806e2cf7048fc4b4c889a43bf97a49a7383134f46411",
+      "bytes": 50482,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "be|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac1/4-1_mp3/b4.mp3",
+      "page": "https://tailo.moe.edu.tw/prac1.html",
+      "texts": [
+        "be"
+      ],
+      "tailo": "be",
+      "han": "拼音 be",
+      "audio": "audio/moe_teaching_75713dacdb32a3.mp3",
+      "sha256": "ea2360ae09fbb50a9884103f15db0e99f1349e0d49fafcff0e2306e0531a52ca",
+      "bytes": 49646,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "mu|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac1/4-1_mp3/m3.mp3",
+      "page": "https://tailo.moe.edu.tw/prac1.html",
+      "texts": [
+        "mu"
+      ],
+      "tailo": "mu",
+      "han": "拼音 mu",
+      "audio": "audio/moe_teaching_b9ba7bf7f3d348.mp3",
+      "sha256": "6d9b17e60e1d129d68c7a4d2a3086ab4e56e3bc6976cc4930a5ade9e680e2c36",
+      "bytes": 47545,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "boo|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac1/4-1_mp3/b6.mp3",
+      "page": "https://tailo.moe.edu.tw/prac1.html",
+      "texts": [
+        "boo"
+      ],
+      "tailo": "boo",
+      "han": "拼音 boo",
+      "audio": "audio/moe_teaching_e2e9f293e57833.mp3",
+      "sha256": "281e6d44d63627c6db059bf029c71977b096e4869b7d6fa8f7cebdb159b1c2c0",
+      "bytes": 44631,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "gu|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac3/4-3_mp3/g3.mp3",
+      "page": "https://tailo.moe.edu.tw/prac3.html",
+      "texts": [
+        "gu"
+      ],
+      "tailo": "gu",
+      "han": "拼音 gu",
+      "audio": "audio/moe_teaching_435caa939b3e3f.mp3",
+      "sha256": "8a43f946ed9aabd414229762b4e431f3a0f39dde3c46997bc5e8862cc99d910c",
+      "bytes": 47556,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "ge|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac3/4-3_mp3/g4.mp3",
+      "page": "https://tailo.moe.edu.tw/prac3.html",
+      "texts": [
+        "ge"
+      ],
+      "tailo": "ge",
+      "han": "拼音 ge",
+      "audio": "audio/moe_teaching_78d1eb98740831.mp3",
+      "sha256": "cd1a757f959cf398756e6137f3e5a534f3573686aaabed50b925aac75b7a1b84",
+      "bytes": 48392,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "moo|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac1/4-1_mp3/m6.mp3",
+      "page": "https://tailo.moe.edu.tw/prac1.html",
+      "texts": [
+        "moo"
+      ],
+      "tailo": "moo",
+      "han": "拼音 moo",
+      "audio": "audio/moe_teaching_53588ca7c6c90d.mp3",
+      "sha256": "b90e7db0f9bde0ca9381a4dfd865989456add7f21681ae9c24791d5063dd5bf0",
+      "bytes": 45037,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "mo|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac1/4-1_mp3/m5.mp3",
+      "page": "https://tailo.moe.edu.tw/prac1.html",
+      "texts": [
+        "mo"
+      ],
+      "tailo": "mo",
+      "han": "拼音 mo",
+      "audio": "audio/moe_teaching_321a80b9291f4b.mp3",
+      "sha256": "b750aaf3b5a8b09af783e052ed64e7d73ff5ec6f6fe9e4f8086949df8729a6cf",
+      "bytes": 45873,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "gi|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac3/4-3_mp3/g2.mp3",
+      "page": "https://tailo.moe.edu.tw/prac3.html",
+      "texts": [
+        "gi"
+      ],
+      "tailo": "gi",
+      "han": "拼音 gi",
+      "audio": "audio/moe_teaching_c9d7e91b08b837.mp3",
+      "sha256": "0792976585afa8daf16aeaaa73cd8ef2d1ce47207a8341fe1b8c5e5d4ace5915",
+      "bytes": 48392,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "ga|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac3/4-3_mp3/g1.mp3",
+      "page": "https://tailo.moe.edu.tw/prac3.html",
+      "texts": [
+        "ga"
+      ],
+      "tailo": "ga",
+      "han": "拼音 ga",
+      "audio": "audio/moe_teaching_b02a0f48671c9f.mp3",
+      "sha256": "462332788ccff1c5c0dfd9b0f0593d5b1235531dfe9c41b097f3054b8761cd0d",
+      "bytes": 47138,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "nge|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac3/4-3_mp3/ng4.mp3",
+      "page": "https://tailo.moe.edu.tw/prac3.html",
+      "texts": [
+        "nge"
+      ],
+      "tailo": "nge",
+      "han": "拼音 nge",
+      "audio": "audio/moe_teaching_7c8f3bab1116ed.mp3",
+      "sha256": "03f42bf3dc36725df71c3fecacf4056e7e6ca49bc4fa3bf6521707811cfc5e6d",
+      "bytes": 44201,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "ngu|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac3/4-3_mp3/ng3.mp3",
+      "page": "https://tailo.moe.edu.tw/prac3.html",
+      "texts": [
+        "ngu"
+      ],
+      "tailo": "ngu",
+      "han": "拼音 ngu",
+      "audio": "audio/moe_teaching_b443179ba69d92.mp3",
+      "sha256": "2ccaa07a22faf4504bd13835752753360e40eea751293684069753edae246c0b",
+      "bytes": 42112,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "goo|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac3/4-3_mp3/g6.mp3",
+      "page": "https://tailo.moe.edu.tw/prac3.html",
+      "texts": [
+        "goo"
+      ],
+      "tailo": "goo",
+      "han": "拼音 goo",
+      "audio": "audio/moe_teaching_e641013edaeaf1.mp3",
+      "sha256": "3ef04e0c67672ab5aa8a8eeb7c3f6745966df9a5f118c0a38a37b8baa87500c0",
+      "bytes": 45049,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "nga|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac3/4-3_mp3/ng1.mp3",
+      "page": "https://tailo.moe.edu.tw/prac3.html",
+      "texts": [
+        "nga"
+      ],
+      "tailo": "nga",
+      "han": "拼音 nga",
+      "audio": "audio/moe_teaching_c77ee606cad838.mp3",
+      "sha256": "efe6253cb4b4a7b78bb0932bae4996aaabcc99abc9a5b240a0c96b8bc25f2c7e",
+      "bytes": 40440,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "ngi|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac3/4-3_mp3/ng2.mp3",
+      "page": "https://tailo.moe.edu.tw/prac3.html",
+      "texts": [
+        "ngi"
+      ],
+      "tailo": "ngi",
+      "han": "拼音 ngi",
+      "audio": "audio/moe_teaching_bba62f80c1196b.mp3",
+      "sha256": "ffeee98a2b5753a342cd4e9c43b47d63bd0d68d3d6f92da738ee2cfcf450c081",
+      "bytes": 46291,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "go|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac3/4-3_mp3/g5.mp3",
+      "page": "https://tailo.moe.edu.tw/prac3.html",
+      "texts": [
+        "go"
+      ],
+      "tailo": "go",
+      "han": "拼音 go",
+      "audio": "audio/moe_teaching_43a571c5906497.mp3",
+      "sha256": "af11f9a950d4f88e7b4fbccf67c52c26742e8430fb3d7ba459330e5a090f4c34",
+      "bytes": 49228,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "ho|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac3/4-3_mp3/h5.mp3",
+      "page": "https://tailo.moe.edu.tw/prac3.html",
+      "texts": [
+        "ho"
+      ],
+      "tailo": "ho",
+      "han": "拼音 ho",
+      "audio": "audio/moe_teaching_b9d7140e7c5dee.mp3",
+      "sha256": "4b80b4e8cdc05078dfe2709ccf6beb95d65d2c67b2ae6a4366ed6ece555216cf",
+      "bytes": 39604,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "o|1",
+      "source": "https://tailo.moe.edu.tw/pin2/mp3/06_o.mp3",
+      "page": "https://tailo.moe.edu.tw/pin2.html",
+      "texts": [
+        "o"
+      ],
+      "tailo": "o",
+      "han": "拼音 o",
+      "audio": "audio/moe_teaching_bdea23fd19e11f.mp3",
+      "sha256": "0e23ab99c5cadfda310a10d3484e639484f841eff324fb83de88d6ee3aa83f5b",
+      "bytes": 30172,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "u|1",
+      "source": "https://tailo.moe.edu.tw/pin2/mp3/03_u.mp3",
+      "page": "https://tailo.moe.edu.tw/pin2.html",
+      "texts": [
+        "u"
+      ],
+      "tailo": "u",
+      "han": "拼音 u",
+      "audio": "audio/moe_teaching_af4a96adf747ad.mp3",
+      "sha256": "a4b4cd08e3cd5750f70f983115500ea41780133fb875e8e330d062869d58affc",
+      "bytes": 30172,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "too|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/t6.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "too"
+      ],
+      "tailo": "too",
+      "han": "拼音 too",
+      "audio": "audio/moe_teaching_0d76d182a95aba.mp3",
+      "sha256": "f4d7580895aed03f11ad1b857d34f01a7bddd6c9ed8c3a0468e28e9dab46d5cb",
+      "bytes": 37096,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "ngoo|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac3/4-3_mp3/ng6.mp3",
+      "page": "https://tailo.moe.edu.tw/prac3.html",
+      "texts": [
+        "ngoo"
+      ],
+      "tailo": "ngoo",
+      "han": "拼音 ngoo",
+      "audio": "audio/moe_teaching_4eec03ea01d109.mp3",
+      "sha256": "282e633032fbc59ab33445341d1fe8035fa8eeed0450256026388101e7e3bba9",
+      "bytes": 44619,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "ngo|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac3/4-3_mp3/ng5.mp3",
+      "page": "https://tailo.moe.edu.tw/prac3.html",
+      "texts": [
+        "ngo"
+      ],
+      "tailo": "ngo",
+      "han": "拼音 ngo",
+      "audio": "audio/moe_teaching_899547aef2965a.mp3",
+      "sha256": "2f1bccfdf85b9dbb72793082de23c25116032cedc240887157c802b6767177f0",
+      "bytes": 45455,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "tho|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/th5.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "tho"
+      ],
+      "tailo": "tho",
+      "han": "拼音 tho",
+      "audio": "audio/moe_teaching_9f5a526bb03766.mp3",
+      "sha256": "f0ff84decf11fa4bebcbf286dc7d35ceac1e914862c7590070f14d076fd6532e",
+      "bytes": 37514,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "thu|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/th3.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "thu"
+      ],
+      "tailo": "thu",
+      "han": "拼音 thu",
+      "audio": "audio/moe_teaching_0924f1662baf93.mp3",
+      "sha256": "4432df735b955684355a7542ec4e380eb52490886e1d5b4d8073b33526e4790c",
+      "bytes": 37932,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "thi|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/th2.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "thi"
+      ],
+      "tailo": "thi",
+      "han": "拼音 thi",
+      "audio": "audio/moe_teaching_fb8d30faf3bc6d.mp3",
+      "sha256": "b030760bb02b07ff25f5594add29502396fc9b97b4227a7952d0c5fa887ffdd7",
+      "bytes": 39186,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "tha|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/th1.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "tha"
+      ],
+      "tailo": "tha",
+      "han": "拼音 tha",
+      "audio": "audio/moe_teaching_7d6943862506f0.mp3",
+      "sha256": "aecc09e7d27a8bc6d50ceb9dea348d4c484eb54d4d8c093383dbe48397eee0a5",
+      "bytes": 41705,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "na|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/n1.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "na"
+      ],
+      "tailo": "na",
+      "han": "拼音 na",
+      "audio": "audio/moe_teaching_2ba4a43e7cf2e4.mp3",
+      "sha256": "306ee1e515e165b3f6ad224e5c1dc1e40c168539f974acab341828708b316dca",
+      "bytes": 43365,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "thoo|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/th6.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "thoo"
+      ],
+      "tailo": "thoo",
+      "han": "拼音 thoo",
+      "audio": "audio/moe_teaching_ac766923d92705.mp3",
+      "sha256": "9956155c9bcc3d7d27712b5a943b817017bee9ea0b40ebf695905412f4ba0054",
+      "bytes": 43783,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "noo|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/n6.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "noo"
+      ],
+      "tailo": "noo",
+      "han": "拼音 noo",
+      "audio": "audio/moe_teaching_c6f75ce1a51e3a.mp3",
+      "sha256": "399d0531f12b0c7d47fe0ed06c8762c5dcf72d0841519c53c374b7eb069c4017",
+      "bytes": 44201,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "la|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/l1.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "la"
+      ],
+      "tailo": "la",
+      "han": "拼音 la",
+      "audio": "audio/moe_teaching_132d2fa245d2a2.mp3",
+      "sha256": "d55bf6fd363edb74aa1c517119dd24a6cd2718458043e9e25050c43d22321f90",
+      "bytes": 48810,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "nu|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/n3.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "nu"
+      ],
+      "tailo": "nu",
+      "han": "拼音 nu",
+      "audio": "audio/moe_teaching_9fdd72c7fa8fb5.mp3",
+      "sha256": "8146f760214efe7a1fd25766387645d2590ca037160d15ce518c30c7009a4f3c",
+      "bytes": 45873,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "li|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/l2.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "li"
+      ],
+      "tailo": "li",
+      "han": "拼音 li",
+      "audio": "audio/moe_teaching_feb6fa1533003b.mp3",
+      "sha256": "f6fa07ab7ceb5ed9c376f08d47c46418140b3d459961afe6499a83a8f10d4b80",
+      "bytes": 50482,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "no|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/n5.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "no"
+      ],
+      "tailo": "no",
+      "han": "拼音 no",
+      "audio": "audio/moe_teaching_c98bcc99194ddc.mp3",
+      "sha256": "95bb113ee2c60ece343030c799141db9c0fb1c3d67d6373cb137854896f5a61e",
+      "bytes": 42112,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "le|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/l4.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "le"
+      ],
+      "tailo": "le",
+      "han": "拼音 le",
+      "audio": "audio/moe_teaching_ec886773a480fc.mp3",
+      "sha256": "d4f6658345979631d5485114592063411ae58e481c1542e2132ac06aab0aec7d",
+      "bytes": 42959,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "cha|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac4/4-4_mp3/ts1.mp3",
+      "page": "https://tailo.moe.edu.tw/prac4.html",
+      "texts": [
+        "tsa"
+      ],
+      "tailo": "tsa",
+      "han": "拼音 tsa",
+      "audio": "audio/moe_teaching_24ffde7e9de7ff.mp3",
+      "sha256": "e7c1f80219468bb3ed3f6607b54d015b3c017f968491b4320b481d5ac5f6fd39",
+      "bytes": 34170,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "ju|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac4/4-4_mp3/j3.mp3",
+      "page": "https://tailo.moe.edu.tw/prac4.html",
+      "texts": [
+        "ju"
+      ],
+      "tailo": "ju",
+      "han": "拼音 ju",
+      "audio": "audio/moe_teaching_832edab8008e25.mp3",
+      "sha256": "b57d3d1afa5f40e64624bf7af0fd931046b12120c3e5668c0d1c6c37bcbb0045",
+      "bytes": 38350,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "loo|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac2/4-2_mp3/l6.mp3",
+      "page": "https://tailo.moe.edu.tw/prac2.html",
+      "texts": [
+        "loo"
+      ],
+      "tailo": "loo",
+      "han": "拼音 loo",
+      "audio": "audio/moe_teaching_1e767fa51fc680.mp3",
+      "sha256": "26981cffebd21df436802c3127decadd0c643239cb902e4f5cf1e72cd9beb53b",
+      "bytes": 45467,
+      "origin": "teaching_site"
+    },
+    {
+      "key": "ji|1",
+      "source": "https://tailo.moe.edu.tw/prac/prac4/4-4_mp3/j2.mp3",
+      "page": "https://tailo.moe.edu.tw/prac4.html",
+      "texts": [
+        "ji"
+      ],
+      "tailo": "ji",
+      "han": "拼音 ji",
+      "audio": "audio/moe_teaching_a10f50e9dddc35.mp3",
+      "sha256": "a306f57c62e91023a95e6ca9ba7f687c22010a36bddafe8fbe769ec07feec54b",
+      "bytes": 42112,
+      "origin": "teaching_site"
+    }
+  ],
+  "excluded": "Conflicting printed single-syllable labels for one audio URL; unconfirmed image-only labels; compound word recordings."
+}

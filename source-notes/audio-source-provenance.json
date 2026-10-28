@@ -1,0 +1,11 @@
+{
+  "source": "https://sutian.moe.edu.tw/zh-hant/siongkuantsuguan/",
+  "dictionary": "https://sutian.moe.edu.tw/media/senn/ods/kautian.ods",
+  "dictionary_sha256": "4a73eb842e6206d7bb21f2b2e16f5ed70cebe075b8c54b9d448e95d7f1ebe7ed",
+  "audio_archive": "https://sutian.moe.edu.tw/media/senn/sutiau-mp3.zip",
+  "audio_archive_bytes": 305543303,
+  "entries_in_archive": 22298,
+  "date": "2026-10-26",
+  "added_files_crc_verified": 104,
+  "scope": "Exact primary single-syllable recordings; Tai-lo converted to POJ for lookup; no audio edits."
+}

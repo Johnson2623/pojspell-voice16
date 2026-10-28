@@ -1,0 +1,17 @@
+{
+  "exampleCount": 1999,
+  "distinctSpellingCombinations": 1701,
+  "originalAudioFiles": 1999,
+  "distinctAudioHashes": 1999,
+  "tones": {
+    "1": 381,
+    "2": 318,
+    "3": 295,
+    "4": 224,
+    "5": 305,
+    "7": 315,
+    "8": 161
+  },
+  "note": "同音不同字的詞目列為不同例音；每筆例音保留各自原始真人錄音。",
+  "sourceDataset": "https://sutian.moe.edu.tw/media/senn/ods/kautian.ods"
+}
